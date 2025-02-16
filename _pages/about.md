@@ -40,22 +40,22 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
 # 📝 Publications
 - ## Preprint
   - **[In Submission]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers**. \
-   *arXiv:2401.17450* \
-  <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-  alt="GitHub"
-  style="height: 1em; vertical-align: middle; margin-left: 4px;>
-  </a>
+   *arXiv:2401.17450*
+   <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            alt="GitHub"
+            style="height: 1em; vertical-align: middle; margin-left: 4px;">
+     </a>
 
 - Selected Publications
   - **[DATE'2025] (Best Paper Candidate)** **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. \
   **qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers** \
-   *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025* \
+   *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*
    <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-   alt="GitHub"
-   style="height: 1em; vertical-align: middle; margin-left: 4px;>
-   </a>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            alt="GitHub"
+            style="height: 1em; vertical-align: middle; margin-left: 4px;">
+     </a>
 
   - **[DAC'2024]** Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen \
     **ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM** \
@@ -67,7 +67,7 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
     <a href="https://github.com/JJJayyyy/DISQ" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
-    style="height: 1em; vertical-align: middle; margin-left: 4px;>
+    style="height: 1em; vertical-align: middle; margin-left: 4px;">
     </a>
 
   - **[AAMAS'2021]** Mingxi Cheng, **Junyao Zhang**, Chenzhong Yin, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan \
@@ -76,7 +76,7 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
     <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
-    style="height: 1em; vertical-align: middle; margin-left: 4px;>
+    style="height: 1em; vertical-align: middle; margin-left: 4px;">
     </a>
 
   - **[IV'2021]** Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan \
@@ -85,7 +85,7 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
     <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
-    style="height: 1em; vertical-align: middle; margin-left: 4px;>
+    style="height: 1em; vertical-align: middle; margin-left: 4px;">
     </a>
 
 
