@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -34,10 +34,64 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
 # 🎖 Honors and Awards
 - *2025* Best Paper Candidate (DATE)
 - *2023* 1st Place of ACM/IEEE Quantum Computing for Drug Discovery Challenge (1/50).
-- *2021* Master Students Honor Program, University of Southern California. 
+- *2021* Master Students Honor Program, University of Southern California.
 
 
-# 📝 Publications 
+# 📝 Publications
+- ## In Submission
+  - **[arXiv, 2024]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen  
+    **Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers**  
+    *arXiv:2401.17450*  
+    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/Qplacer)
+
+- Selected Publications
+  - **[DATE'2025] (Best Paper Candidate)** **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen  
+    **qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers**  
+    *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*  
+    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/Qplacer)
+
+  - **[DAC'2024]** Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen  
+    **ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM**  
+    *ACM/IEEE Design Automation Conference (DAC), 2024*
+
+  - **[QCE'2023]** **Junyao Zhang**, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen  
+    **DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms**  
+    *IEEE International Conference on Quantum Computing and Engineering (QCE), 2023*  
+    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/DISQ)
+
+  - **[AAMAS'2021]** Mingxi Cheng, **Junyao Zhang**, Chenzhong Yin, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan  
+    **A General Trust Framework for Multi-Agent Systems**  
+    *International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021*  
+    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/AIM_TRUST)
+
+  - **[IV'2021]** Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan  
+    **Trust-Aware Control for Intelligent Transportation Systems**  
+    *IEEE Intelligent Vehicles Symposium (IV), 2021*  
+    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/AIM_TRUST)
+
+
+- Additional Publications
+  - **[CASM]**  
+    **A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models**  
+    *IEEE Circuits and Systems Magazine (CASM)*
+
+
+
+
+
+
+
+
+<!-- \resumeSubheadingPubTwo
+{Ecco: Enabling Higher Memory Bandwidth and Capacity for LLM on GPU via Entropy-based Cache Compression}
+{Feng Chen, Cong Guo, Chiyue Wei, \textbf{Junyao Zhang}, Yitu Wang, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen}
+
+
+\resumeSubheadingPubTwo{Towards Efficient Matrix Multiplication with Redundancy Removal for Quantized Deep Neural Networks}
+{Cong Guo, Chiyue Wei, \textbf{Junyao Zhang}, Bowen Duan,  Jiaming Tang, Jingyang Zhang, Hao Frank Yang, Song Han, Hai Li, Yiran Chen} -->
+
+
+
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,19 +101,13 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
- 
-
-
-
 <!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
  # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
