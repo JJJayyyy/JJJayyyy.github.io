@@ -26,10 +26,10 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
 
 
 # 💻 Experiences
-- *2024.06 - 2024.08*, Research Intern in Accenture, Washington, D.C, US.
-- *2023.06 - 2023.08*, Research Intern in [Accenture Cybersecurity Lab](https://www.accenture.com/us-en/services/cybersecurity?c=acn_glb_semcapabilitiesgoogle_14168015&n=psgs_0624&&&&&gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfiBqXyE4Jk_NJWItuA6aJ2xL3bSB-0-sa0wfuH8nYl_ShVzQ7Sv1cBoCf7QQAvD_BwE&gclsrc=aw.ds), Washington, D.C, US.
-- *2022.03 - 2022.07*, R&D Engineering in [Synopsys Inc. (PrimeTime)]([https://github.com/](https://www.synopsys.com/implementation-and-signoff/signoff/primetime.html)), Mountain View, CA, US.
-- *2021.07 - 2022.03*, R&D Engineering in [Synopsys Inc. (PrimeTime)]([https://github.com/](https://www.synopsys.com/implementation-and-signoff/signoff/primetime.html)), Mountain View, CA, US.
+- *2024.06 - 2024.08*, Research Intern in [Accenture Cybersecurity Lab](https://www.accenture.com/us-en/services/cybersecurity?c=acn_glb_semcapabilitiesgoogle_14168015&n=psgs_0624&&&&&gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfiBqXyE4Jk_NJWItuA6aJ2xL3bSB-0-sa0wfuH8nYl_ShVzQ7Sv1cBoCf7QQAvD_BwE&gclsrc=aw.ds), Washington, D.C., US.
+- *2023.06 - 2023.08*, Research Intern in [Accenture Cybersecurity Lab](https://www.accenture.com/us-en/services/cybersecurity?c=acn_glb_semcapabilitiesgoogle_14168015&n=psgs_0624&&&&&gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfiBqXyE4Jk_NJWItuA6aJ2xL3bSB-0-sa0wfuH8nYl_ShVzQ7Sv1cBoCf7QQAvD_BwE&gclsrc=aw.ds), Washington, D.C., US.
+- *2022.03 - 2022.07*, R&D Engineering in [Synopsys Inc. (Zebu)](https://www.synopsys.com/verification/emulation-prototyping/emulation.html), Mountain View, CA, US.
+- *2021.07 - 2022.03*, R&D Engineering in [Synopsys Inc. (PrimeTime)](https://www.synopsys.com/implementation-and-signoff/signoff/primetime.html), Mountain View, CA, US.
 
 # 🎖 Honors and Awards
 - *2025* Best Paper Candidate (DATE)
