@@ -38,40 +38,60 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
 
 
 # 📝 Publications
-- ## In Submission
-  - **[arXiv, 2024]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers**. *arXiv:2401.17450*  
-    <a href="https://github.com/JJJayyyy/Qplacer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="height: 1em; vertical-align: middle;">
-    </a>
+- ## Preprint
+  - **[In Submission]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers**. \
+   *arXiv:2401.17450* \
+  <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+  alt="GitHub"
+  style="height: 1em; vertical-align: middle; margin-left: 4px;>
+  </a>
 
 - Selected Publications
-  - **[DATE'2025] (Best Paper Candidate)** **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. **qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers**  *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*  
-    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/Qplacer)
+  - **[DATE'2025] (Best Paper Candidate)** **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. \
+  **qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers** \
+   *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025* \
+   <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+   alt="GitHub"
+   style="height: 1em; vertical-align: middle; margin-left: 4px;>
+   </a>
 
-  - **[DAC'2024]** Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen  
-    **ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM**  
+  - **[DAC'2024]** Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen \
+    **ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM** \
     *ACM/IEEE Design Automation Conference (DAC), 2024*
 
-  - **[QCE'2023]** **Junyao Zhang**, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen  
-    **DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms**  
-    *IEEE International Conference on Quantum Computing and Engineering (QCE), 2023*  
-    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/DISQ)
+  - **[QCE'2023]** **Junyao Zhang**, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen \
+    **DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms** \
+    *IEEE International Conference on Quantum Computing and Engineering (QCE), 2023* \
+    <a href="https://github.com/JJJayyyy/DISQ" style="display: inline;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    alt="GitHub"
+    style="height: 1em; vertical-align: middle; margin-left: 4px;>
+    </a>
 
-  - **[AAMAS'2021]** Mingxi Cheng, **Junyao Zhang**, Chenzhong Yin, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan  
-    **A General Trust Framework for Multi-Agent Systems**  
-    *International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021*  
-    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/AIM_TRUST)
+  - **[AAMAS'2021]** Mingxi Cheng, **Junyao Zhang**, Chenzhong Yin, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan \
+    **A General Trust Framework for Multi-Agent Systems**  \
+    *International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021* \
+    <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    alt="GitHub"
+    style="height: 1em; vertical-align: middle; margin-left: 4px;>
+    </a>
 
-  - **[IV'2021]** Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan  
-    **Trust-Aware Control for Intelligent Transportation Systems**  
-    *IEEE Intelligent Vehicles Symposium (IV), 2021*  
-    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/AIM_TRUST)
+  - **[IV'2021]** Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan \
+    **Trust-Aware Control for Intelligent Transportation Systems** \
+    *IEEE Intelligent Vehicles Symposium (IV), 2021* \
+    <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    alt="GitHub"
+    style="height: 1em; vertical-align: middle; margin-left: 4px;>
+    </a>
 
 
 - Additional Publications
-  - **[CASM]**  
-    **A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models**  
-    *IEEE Circuits and Systems Magazine (CASM)*
+  - **[Survey]** **A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models** \
+  *IEEE Circuits and Systems Magazine (CASM)*
 
 
 
