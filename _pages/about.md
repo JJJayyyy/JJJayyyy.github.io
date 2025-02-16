@@ -39,15 +39,13 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
 
 # 📝 Publications
 - ## In Submission
-  - **[arXiv, 2024]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen  
-    **Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers**  
-    *arXiv:2401.17450*  
-    [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/Qplacer)
+  - **[arXiv, 2024]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers**. *arXiv:2401.17450*  
+    <a href="https://github.com/JJJayyyy/Qplacer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" style="height: 1em; vertical-align: middle;">
+    </a>
 
 - Selected Publications
-  - **[DATE'2025] (Best Paper Candidate)** **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen  
-    **qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers**  
-    *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*  
+  - **[DATE'2025] (Best Paper Candidate)** **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. **qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers**  *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*  
     [![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/JJJayyyy/Qplacer)
 
   - **[DAC'2024]** Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen  
