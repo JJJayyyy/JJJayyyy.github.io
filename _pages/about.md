@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in computer engineering in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/).
+I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/).
 
 # 📖 Educations
 - *2022.08 - Present*, Ph.D. in Electrical and Computer Engineering at Duke University, Durham, NC, US.
@@ -63,14 +63,14 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
     style="height: 1em; vertical-align: middle; margin-left: 4px;">
     </a>
 
-  - **[AAMAS'2021]** Mingxi Cheng, **Junyao Zhang**, Chenzhong Yin, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan **A General Trust Framework for Multi-Agent Systems** *International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021*
+  - **``[AAMAS'2021]``** Mingxi Cheng, **Junyao Zhang**, Chenzhong Yin, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan **A General Trust Framework for Multi-Agent Systems** *International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021*
     <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
     style="height: 1em; vertical-align: middle; margin-left: 4px;">
     </a>
 
-  - **[IV'2021]** Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan **Trust-Aware Control for Intelligent Transportation Systems** *IEEE Intelligent Vehicles Symposium (IV), 2021*
+  - **``[IV'2021]``** Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan **Trust-Aware Control for Intelligent Transportation Systems** *IEEE Intelligent Vehicles Symposium (IV), 2021*
     <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
@@ -79,7 +79,7 @@ I am a Ph.D. candidate in computer engineering in Duke ECE Department under the 
 
 
 - Additional Publications
-  - **[Survey]** **A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models** *IEEE Circuits and Systems Magazine (CASM)*
+  - **``[Survey]``** **A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models** *IEEE Circuits and Systems Magazine (CASM)*
 
 
 
