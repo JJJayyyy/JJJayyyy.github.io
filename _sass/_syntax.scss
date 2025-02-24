@@ -33,14 +33,27 @@ div.highlighter-rouge, figure.highlight {
   }
 }
 
-.highlighter-rouge{
-  background-color: #3063ba;
-  color: white;
-  margin-bottom: 3em;
-  padding: 1px 5px 1px 5px;
-  font-size: $type-size-7;
-  border: 0px solid $border-color;
-  border-radius: 10px;
+// .highlighter-rouge{
+//   background-color: #3a77d1;
+//   color: white;
+//   margin-bottom: 3em;
+//   padding: 1px 5px 1px 5px;
+//   font-size: $type-size-7;
+//   border: 0px solid $border-color;
+//   border-radius: 10px;
+// }
+
+
+.highlighter-rouge {
+  background-color: #3a77d1; /* Slightly softer blue */
+  color: #ffffff;
+  margin-bottom: 2em;
+  padding: 3px 8px;
+  font-size: 14px;
+  border-radius: 6px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 .highlight table td { padding: 5px; }
