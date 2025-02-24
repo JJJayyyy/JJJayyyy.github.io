@@ -46,7 +46,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
             style="height: 1em; vertical-align: middle; margin-left: 4px;">
      </a>
 
-- Selected Publications
+- ## Selected Publications
   - **[DATE'2025] (Best Paper Candidate)** **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. **qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers** *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*
    <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
@@ -70,7 +70,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
     style="height: 1em; vertical-align: middle; margin-left: 4px;">
     </a>
 
-  - **``[IV'2021]``** Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan **Trust-Aware Control for Intelligent Transportation Systems** *IEEE Intelligent Vehicles Symposium (IV), 2021*
+  - **``IV'2021``** Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan **Trust-Aware Control for Intelligent Transportation Systems** *IEEE Intelligent Vehicles Symposium (IV), 2021*
     <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
@@ -78,7 +78,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
     </a>
 
 
-- Additional Publications
+- ## Additional Publications
   - **``[Survey]``** **A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models** *IEEE Circuits and Systems Magazine (CASM)*
 
 
