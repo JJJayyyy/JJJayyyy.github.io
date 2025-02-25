@@ -40,38 +40,43 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 # 📝 Publications
 - ## Preprint
-  - **[In Submission]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers**. *arXiv:2401.17450*
+  - **[In Submission]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **"Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers"**. *arXiv:2401.17450*
    <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             alt="GitHub"
             style="height: 1em; vertical-align: middle; margin-left: 4px;">
      </a>
+
 
 - ## Selected Publications
-  - ``DATE 2025`` <span style="color: #3a77d1;">**(Best Paper Candidate)**</span> **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. **qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers** *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*
+  - ``DATE 2025`` <span style="color: #3a77d1;">**(Best Paper Candidate)**</span> **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. [**"qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers"**](https://arxiv.org/abs/2411.02447). *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*
    <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             alt="GitHub"
             style="height: 1em; vertical-align: middle; margin-left: 4px;">
      </a>
 
-  - ``DAC 2024`` Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen **ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM** *ACM/IEEE Design Automation Conference (DAC), 2024*
 
-  - ``QCE 2023`` **Junyao Zhang**, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen **DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms** *IEEE International Conference on Quantum Computing and Engineering (QCE), 2023*
+  - ``DAC 2024`` Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen. [**"ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM."**](https://dl.acm.org/doi/10.1145/3649329.3656496) *Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC), 2024*
+
+
+  - ``QCE 2023`` **Junyao Zhang**, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen. [**"DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms"**](https://arxiv.org/abs/2308.06634). *IEEE International Conference on Quantum Computing and Engineering (QCE), 2023*
     <a href="https://github.com/JJJayyyy/DISQ" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
     style="height: 1em; vertical-align: middle; margin-left: 4px;">
     </a>
 
-  - ``AAMAS 2021`` Mingxi Cheng, **Junyao Zhang**, Chenzhong Yin, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan **A General Trust Framework for Multi-Agent Systems** *International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021*
+
+  - ``AAMAS 2021`` Mingxi Cheng, **Junyao Zhang**, Chenzhong Yin, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan. [**"A General Trust Framework for Multi-Agent Systems"**](https://dl.acm.org/doi/10.5555/3463952.3463996). *Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS), 2021*
     <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
     style="height: 1em; vertical-align: middle; margin-left: 4px;">
     </a>
 
-  - ``IV 2021`` Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan **Trust-Aware Control for Intelligent Transportation Systems** *IEEE Intelligent Vehicles Symposium (IV), 2021*
+
+  - ``IV 2021`` Mingxi Cheng, **Junyao Zhang**, Shahin Nazarian, Jyotirmoy Deshmukh, Paul Bogdan. [**"Trust-Aware Control for Intelligent Transportation Systems"**](https://dl.acm.org/doi/abs/10.1109/IV48863.2021.9576045) *IEEE Intelligent Vehicles Symposium (IV), 2021*
     <a href="https://github.com/JJJayyyy/AIM_TRUST" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
@@ -80,22 +85,9 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 
 - ## Additional Publications
-  - ``Survey`` **A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models** *IEEE Circuits and Systems Magazine (CASM)*
+  - ``Survey`` [**"A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models"**](https://ieeexplore.ieee.org/iel8/7384/10876813/10876858.pdf). *IEEE Circuits and Systems Magazine (CASM)*
 
 
-
-
-
-
-
-
-<!-- \resumeSubheadingPubTwo
-{Ecco: Enabling Higher Memory Bandwidth and Capacity for LLM on GPU via Entropy-based Cache Compression}
-{Feng Chen, Cong Guo, Chiyue Wei, \textbf{Junyao Zhang}, Yitu Wang, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai Li, Yiran Chen}
-
-
-\resumeSubheadingPubTwo{Towards Efficient Matrix Multiplication with Redundancy Removal for Quantized Deep Neural Networks}
-{Cong Guo, Chiyue Wei, \textbf{Junyao Zhang}, Bowen Duan,  Jiaming Tang, Jingyang Zhang, Hao Frank Yang, Song Han, Hai Li, Yiran Chen} -->
 
 
 
