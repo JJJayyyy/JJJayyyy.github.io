@@ -21,8 +21,8 @@ redirect_from:
 I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/).
 
 # 📖 Educations
-- *2022.08 - Present*, Ph.D. in Electrical and Computer Engineering at Duke University, Durham, NC, US.
-- *2019.08 - 2021.05*, M.S. in Electrical Engineering at University of Southern California, Los Angeles, CA, USA.
+- *2022.08 - Present*, Ph.D. in Electrical and Computer Engineering @ Duke University, Durham, NC, US.
+- *2019.08 - 2021.05*, M.S. in Electrical Engineering @ University of Southern California, Los Angeles, CA, US.
 <!-- - *2015.08 - 2019.07*, B.E in Electrical and Electronic Engineering at University of Nottingham. -->
 
 
@@ -39,8 +39,20 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 
 # 📝 Publications
-- ## Preprint
+<!-- - ## Preprint
   - **[In Submission]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **"Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers"**. *arXiv:2401.17450*
+   <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            alt="GitHub"
+            style="height: 1em; vertical-align: middle; margin-left: 4px;">
+     </a> -->
+
+
+- ## Selected Publications
+  - ``ISCA 2025`` Feng Cheng, Cong Guo, Chiyue Wei, **Junyao Zhang**, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai "Helen" Li, Yiran Chen. **"Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression"**. *ACM/IEEE 52st Annual International Symposium on Computer Architecture (ISCA), 2025*
+
+
+  - ``ISCA 2025`` **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **"Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers"**. *ACM/IEEE 52st Annual International Symposium on Computer Architecture (ISCA), 2025*
    <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             alt="GitHub"
@@ -48,7 +60,6 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
      </a>
 
 
-- ## Selected Publications
   - ``DATE 2025`` <span style="color: #3a77d1;">**(Best Paper Candidate)**</span> **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. [**"qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers"**](https://arxiv.org/abs/2411.02447). *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*
    <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
@@ -60,7 +71,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
   - ``DAC 2024`` Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen. [**"ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM."**](https://dl.acm.org/doi/10.1145/3649329.3656496) *Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC), 2024*
 
 
-  - ``QCE 2023`` **Junyao Zhang**, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen. [**"DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms"**](https://arxiv.org/abs/2308.06634). *IEEE International Conference on Quantum Computing and Engineering (QCE), 2023*
+  - ``QCE 2023`` **Junyao Zhang**, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen. [**"DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms"**](https://ieeexplore.ieee.org/document/10313742/). *IEEE International Conference on Quantum Computing and Engineering (QCE), 2023*
     <a href="https://github.com/JJJayyyy/DISQ" style="display: inline;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
     alt="GitHub"
