@@ -33,9 +33,9 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 - *2021.07 - 2022.03*, R&D Engineering in [Synopsys Inc. (PrimeTime)](https://www.synopsys.com/implementation-and-signoff/signoff/primetime.html), Mountain View, CA, US.
 
 # 🎖 Honors and Awards
-- *2025* Best Paper Candidate (DATE)
-- *2023* 1st Place of ACM/IEEE Quantum Computing for Drug Discovery Challenge (1/50).
-- *2021* Master Students Honor Program, University of Southern California.
+- *2025* - Best Paper Candidate (DATE)
+- *2023* - 1st Place of ACM/IEEE Quantum Computing for Drug Discovery Challenge (1/50).
+- *2021* - Master Students Honor Program, University of Southern California.
 
 
 # 📝 Publications
@@ -49,10 +49,10 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 
 - ## Selected Publications
-  - ``ISCA 2025`` Feng Cheng, Cong Guo, Chiyue Wei, **Junyao Zhang**, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai "Helen" Li, Yiran Chen. **"Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression"**. *ACM/IEEE 52st Annual International Symposium on Computer Architecture (ISCA), 2025*
+  - ``ISCA 2025`` Feng Cheng, Cong Guo, Chiyue Wei, **Junyao Zhang**, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai "Helen" Li, Yiran Chen. **"Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression"**. *ACM/IEEE 52nd Annual International Symposium on Computer Architecture (ISCA), 2025*
 
 
-  - ``ISCA 2025`` **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **"Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers"**. *ACM/IEEE 52st Annual International Symposium on Computer Architecture (ISCA), 2025*
+  - ``ISCA 2025`` **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **"Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers"**. *ACM/IEEE 52nd Annual International Symposium on Computer Architecture (ISCA), 2025*
    <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             alt="GitHub"
