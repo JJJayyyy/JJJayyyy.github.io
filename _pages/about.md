@@ -62,7 +62,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
      </a>
 
 
-  - ``DATE 2025`` <span style="color: #3a77d1;">**(Best Paper Candidate)**</span> **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. [**"qLDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers"**](https://arxiv.org/abs/2411.02447). *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*
+  - ``DATE 2025`` <span style="color: #3a77d1;">**(Best Paper Candidate)**</span> **Junyao Zhang**, Guanglei Zhou, Feng Cheng, Jonathan Hao-Cheng Ku, Qi Ding, Jiaqi Gu, Hanrui Wang, Hai "Helen" Li, Yiran Chen. [**"qGDP: Quantum Legalization and Detailed Placement for Superconducting Quantum Computers"**](https://arxiv.org/abs/2411.02447). *Design, Automation & Test in Europe Conference & Exhibition (DATE), 2025*
    <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             alt="GitHub"
