@@ -41,14 +41,6 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 
 # 📝 Publications
-<!-- - ## Preprint
-  - **[In Submission]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **"Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers"**. *arXiv:2401.17450*
-   <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-            alt="GitHub"
-            style="height: 1em; vertical-align: middle; margin-left: 4px;">
-     </a> -->
-
 
 - ## Selected Publications
   - ``ISCA 2025`` Feng Cheng, Cong Guo, Chiyue Wei, **Junyao Zhang**, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai "Helen" Li, Yiran Chen. [**"Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression"**](https://dl.acm.org/doi/10.1145/3695053.3731024). *ACM/IEEE 52nd Annual International Symposium on Computer Architecture (ISCA), 2025*
@@ -70,7 +62,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
      </a>
 
 
-  - ``DAC 2024`` Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen. [**"ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM."**](https://dl.acm.org/doi/10.1145/3649329.3656496) *Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC), 2024*
+  - ``DAC 2024`` Jonathan Ku, **Junyao Zhang**, Haoxuan Shan, Saichand Samudrala, Jiawen Wu, Qilin Zheng, Ziru Li, Jeyavijayan Rajendran, Yiran Chen. [**"ModSRAM: Algorithm-Hardware Co-Design for Large Number Modular Multiplication in SRAM"**](https://dl.acm.org/doi/10.1145/3649329.3656496). *Proceedings of the 61st ACM/IEEE Design Automation Conference (DAC), 2024*
 
 
   - ``QCE 2023`` **Junyao Zhang**, Hanrui Wang, Gokul Subramanian Ravi, Frederic T. Chong, Song Han, Frank Mueller, Yiran Chen. [**"DISQ: Dynamic Iteration Skipping for Variational Quantum Algorithms"**](https://ieeexplore.ieee.org/document/10313742/). *IEEE International Conference on Quantum Computing and Engineering (QCE), 2023*
@@ -101,13 +93,23 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
   - ``Survey`` [**"A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models"**](https://ieeexplore.ieee.org/iel8/7384/10876813/10876858.pdf). *IEEE Circuits and Systems Magazine (CASM)*
 
 
-  - ``GLSVLSI 2025`` Feng Cheng, Tunhou Zhang, **Junyao Zhang**, Jonathan Ku, Yitu Wang, Xiaoxuan Yang, Yiran Chen. [**"AutoRAC: Automated Processing-in-Memory Accelerator Design for Recommender Systems."**](https://dl.acm.org/doi/full/10.1145/3716368.3735229) *Proceedings of the Great Lakes Symposium on VLSI, 2025*
+  - ``GLSVLSI 2025`` Feng Cheng, Tunhou Zhang, **Junyao Zhang**, Jonathan Ku, Yitu Wang, Xiaoxuan Yang, Yiran Chen. [**"AutoRAC: Automated Processing-in-Memory Accelerator Design for Recommender Systems"**](https://dl.acm.org/doi/full/10.1145/3716368.3735229). *Proceedings of the Great Lakes Symposium on VLSI, 2025*
   
   
-  - ``SPIE 2025`` Guanglei Zhou, Bhargav Korrapati, Gaurav Rajavendra Reddy, **Junyao Zhang**, Yiran Chen, Dipto G Thakurta. [**"Vario: enhance pattern diversity with diffusion model."**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13425/1342507/Vario-enhance-pattern-diversity-with-diffusion-model/10.1117/12.3049792.short) *DTCO and Computational Patterning IV, 2025*
+  - ``SPIE 2025`` Guanglei Zhou, Bhargav Korrapati, Gaurav Rajavendra Reddy, **Junyao Zhang**, Yiran Chen, Dipto G Thakurta. [**"Vario: enhance pattern diversity with diffusion model"**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13425/1342507/Vario-enhance-pattern-diversity-with-diffusion-model/10.1117/12.3049792.short). *DTCO and Computational Patterning IV, 2025*
 
 
-  - ``ISQED 2025`` Arjun Sridhar, Chen-Chia Chang, **Junyao Zhang**, Yiran Chen. [**"Improving Routability Prediction via NAS Using a Smooth One-shot Augmented Predictor."**](https://dl.acm.org/doi/full/10.1145/3716368.3735229) *26th International Symposium on Quality Electronic Design, 2025*
+  - ``ISQED 2025`` Arjun Sridhar, Chen-Chia Chang, **Junyao Zhang**, Yiran Chen. [**"Improving Routability Prediction via NAS Using a Smooth One-shot Augmented Predictor"**](https://dl.acm.org/doi/full/10.1145/3716368.3735229). *26th International Symposium on Quality Electronic Design, 2025*
+
+
+
+<!-- - ## Preprint
+  - **[In Submission]** **Junyao Zhang**, Hanrui Wang, Qi Ding, Jiaqi Gu, Reouven Assouly, William D. Oliver, Song Han, Kenneth R. Brown, Hai "Helen" Li, Yiran Chen. **"Qplacer: Frequency-Aware Placement for Superconducting Quantum Computers"**. *arXiv:2401.17450*
+   <a href="https://github.com/JJJayyyy/Qplacer" style="display: inline;">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            alt="GitHub"
+            style="height: 1em; vertical-align: middle; margin-left: 4px;">
+     </a> -->
 
 
 
