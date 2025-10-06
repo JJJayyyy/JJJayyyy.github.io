@@ -18,7 +18,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/).
+I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yiran Chen](https://ece.duke.edu/faculty/yiran-chen) and [Prof. Hai "Helen" Li](https://ece.duke.edu/people/hai-helen-li/). My research interests include ML systems, AI compiler, and Quantum Design Automation.
 
 # 📖 Educations
 - *2022.08 - Present*, Ph.D. in Electrical and Computer Engineering @ Duke University, Durham, NC, US.
@@ -27,6 +27,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 
 # 💻 Experiences
+- *2025.05 - present*, Research Intern in [Eigen AI](https://www.eigenai.com/), Palo Alto, CA, US. 
 - *2025.01 - 2025.05*, Research Intern in [Google](https://about.google/), Sunnyvale, CA, US.
 - *2024.06 - 2024.08*, Research Intern in [Accenture Cybersecurity Lab](https://www.accenture.com/us-en/services/cybersecurity?c=acn_glb_semcapabilitiesgoogle_14168015&n=psgs_0624&&&&&gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfiBqXyE4Jk_NJWItuA6aJ2xL3bSB-0-sa0wfuH8nYl_ShVzQ7Sv1cBoCf7QQAvD_BwE&gclsrc=aw.ds), Washington, D.C., US.
 - *2023.06 - 2023.08*, Research Intern in [Accenture Cybersecurity Lab](https://www.accenture.com/us-en/services/cybersecurity?c=acn_glb_semcapabilitiesgoogle_14168015&n=psgs_0624&&&&&gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfiBqXyE4Jk_NJWItuA6aJ2xL3bSB-0-sa0wfuH8nYl_ShVzQ7Sv1cBoCf7QQAvD_BwE&gclsrc=aw.ds), Washington, D.C., US.
