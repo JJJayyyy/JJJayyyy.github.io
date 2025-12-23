@@ -102,10 +102,10 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
   - ``Survey`` [**"A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models"**](https://ieeexplore.ieee.org/iel8/7384/10876813/10876858.pdf). *IEEE Circuits and Systems Magazine (CASM)*
 
 
-  - ``ASPDAC 2026`` Haoxuan Shan, Cong Guo, Chiyue Wei, Feng Cheng, **Junyao Zhang**, Hai "Helen" Li, Yiran Chen. [**"Platinum: Path-Adaptable LUT-Based Accelerator Tailored for Low-Bit Weight Matrix Multiplication"**](https://arxiv.org/abs/2511.21910) *Proceedings of the 31th Asia and South Pacific Design Automation Conference. 2026.*
+  - ``ASPDAC 2026`` Haoxuan Shan, Cong Guo, Chiyue Wei, Feng Cheng, **Junyao Zhang**, Hai "Helen" Li, Yiran Chen. [**"Platinum: Path-Adaptable LUT-Based Accelerator Tailored for Low-Bit Weight Matrix Multiplication"**](https://arxiv.org/abs/2511.21910) *Proceedings of the 31th Asia and South Pacific Design Automation Conference, 2026*
 
 
-  - ``ICCAD 2025`` Guanglei Zhou, Chen-Chia Chang, **Junyao Zhang**, Jingyu Pan, Yiran Chen. **"Diffusion-Model-Enhanced Layout Pattern Generation for Sub 3nm DFM"**. *Proceedings of the 44rd IEEE/ACM International Conference on Computer-Aided Design. 2025* (INVITED PAPER)
+  - ``ICCAD 2025`` Guanglei Zhou, Chen-Chia Chang, **Junyao Zhang**, Jingyu Pan, Yiran Chen. **"Diffusion-Model-Enhanced Layout Pattern Generation for Sub 3nm DFM"**. *Proceedings of the 44rd IEEE/ACM International Conference on Computer-Aided Design, 2025* (INVITED PAPER)
 
 
   - ``GLSVLSI 2025`` Feng Cheng, Tunhou Zhang, **Junyao Zhang**, Jonathan Ku, Yitu Wang, Xiaoxuan Yang, Yiran Chen. [**"AutoRAC: Automated Processing-in-Memory Accelerator Design for Recommender Systems"**](https://dl.acm.org/doi/full/10.1145/3716368.3735229). *Proceedings of the Great Lakes Symposium on VLSI, 2025*
