@@ -23,7 +23,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 # 📖 Educations
 - *2022.08 - Present*, Ph.D. in Electrical and Computer Engineering @ Duke University, Durham, NC, US.
 - *2019.08 - 2021.05*, M.S. in Electrical Engineering @ University of Southern California, Los Angeles, CA, US.
-<!-- - *2015.08 - 2019.07*, B.E in Electrical and Electronic Engineering at University of Nottingham. -->
+<!-- - *2015.08 - 2019.07*, B.E in Electrical and Electronic Engineering @ University of Nottingham. -->
 
 
 # 💻 Experiences
@@ -44,6 +44,14 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 # 📝 Publications
 
 - ## Selected Publications
+
+  - ``HPCA 2026`` Chiyue Wei, Cong Guo, **Junyao Zhang**, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen. [**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**](https://arxiv.org/abs/2512.14661). *IEEE International Symposium on High Performance Computer Architecture (HPCA), 2026*
+   <a href="https://github.com/dubcyfor3/Focus" style="display: inline;">
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+            alt="GitHub"
+            style="height: 1em; vertical-align: middle; margin-left: 4px;">
+     </a>
+
   - ``ISCA 2025`` Feng Cheng, Cong Guo, Chiyue Wei, **Junyao Zhang**, Changchun Zhou, Edward Hanson, Jiaqi Zhang, Xiaoxiao Liu, Hai "Helen" Li, Yiran Chen. [**"Ecco: Improving Memory Bandwidth and Capacity for LLMs via Entropy-Aware Cache Compression"**](https://dl.acm.org/doi/10.1145/3695053.3731024). *ACM/IEEE 52nd Annual International Symposium on Computer Architecture (ISCA), 2025*
 
 
@@ -92,6 +100,12 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 - ## Additional Publications
   - ``Survey`` [**"A Survey: Collaborative Hardware and Software Design in the Era of Large Language Models"**](https://ieeexplore.ieee.org/iel8/7384/10876813/10876858.pdf). *IEEE Circuits and Systems Magazine (CASM)*
+
+
+  - ``ASPDAC 2026`` Haoxuan Shan, Cong Guo, Chiyue Wei, Feng Cheng, **Junyao Zhang**, Hai "Helen" Li, Yiran Chen. [**"Platinum: Path-Adaptable LUT-Based Accelerator Tailored for Low-Bit Weight Matrix Multiplication"**](https://arxiv.org/abs/2511.21910) *Proceedings of the 31th Asia and South Pacific Design Automation Conference. 2026.*
+
+
+  - ``ICCAD 2025`` Guanglei Zhou, Chen-Chia Chang, **Junyao Zhang**, Jingyu Pan, Yiran Chen. **"Diffusion-Model-Enhanced Layout Pattern Generation for Sub 3nm DFM"**. *Proceedings of the 44rd IEEE/ACM International Conference on Computer-Aided Design. 2025* (INVITED PAPER)
 
 
   - ``GLSVLSI 2025`` Feng Cheng, Tunhou Zhang, **Junyao Zhang**, Jonathan Ku, Yitu Wang, Xiaoxuan Yang, Yiran Chen. [**"AutoRAC: Automated Processing-in-Memory Accelerator Design for Recommender Systems"**](https://dl.acm.org/doi/full/10.1145/3716368.3735229). *Proceedings of the Great Lakes Symposium on VLSI, 2025*
