@@ -118,22 +118,23 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
   - ``ISQED 2025`` Arjun Sridhar, Chen-Chia Chang, **Junyao Zhang**, Yiran Chen. [**"Improving Routability Prediction via NAS Using a Smooth One-shot Augmented Predictor"**](https://dl.acm.org/doi/full/10.1145/3716368.3735229). *26th International Symposium on Quality Electronic Design, 2025*
 
 
+
 # 👔 Academic Service
 
-**Journal Reviewer**
-- Quantum
-- ACM Transactions on Quantum Computing (**TQC**)
-- ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
-- IEEE Transactions on Artificial Intelligence (**TAI**)
+- ## Journal Reviewer
+  - Quantum
+  - ACM Transactions on Quantum Computing (**TQC**)
+  - ACM Transactions on Design Automation of Electronic Systems (**TODAES**)
+  - IEEE Transactions on Artificial Intelligence (**TAI**)
 
-**Conference Service**
-- Program Committee Member
-  - IEEE International Conference on Quantum Computing and Engineering (**QCE 2025**)
+- ## Conference Service
+  - Program Committee Member
+    - IEEE International Conference on Quantum Computing and Engineering (**QCE 2025**)
 
-- Artifact Evaluation Committee Member
-  - IEEE International Symposium on High-Performance Computer Architecture (**HPCA 2026**)
-  - USENIX Symposium on Operating Systems Design and Implementation (**OSDI 2025**)
-  - USENIX Annual Technical Conference (**ATC 2025**)
+  - Artifact Evaluation Committee Member
+    - IEEE International Symposium on High-Performance Computer Architecture (**HPCA 2026**)
+    - USENIX Symposium on Operating Systems Design and Implementation (**OSDI 2025**)
+    - USENIX Annual Technical Conference (**ATC 2025**)
 
 
 
