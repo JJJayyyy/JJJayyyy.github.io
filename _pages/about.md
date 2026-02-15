@@ -27,7 +27,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 
 # 💻 Experiences
-- *2025.05 - present*, Research Intern in [Eigen AI](https://www.eigenai.com/), Palo Alto, CA, US. 
+- *2025.05 - 2025.12*, Research Intern in [Eigen AI](https://www.eigenai.com/), Palo Alto, CA, US. 
 - *2025.01 - 2025.05*, Research Intern in [Google](https://about.google/), Sunnyvale, CA, US.
 - *2024.06 - 2024.08*, Research Intern in [Accenture Cybersecurity Lab](https://www.accenture.com/us-en/services/cybersecurity?c=acn_glb_semcapabilitiesgoogle_14168015&n=psgs_0624&&&&&gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfiBqXyE4Jk_NJWItuA6aJ2xL3bSB-0-sa0wfuH8nYl_ShVzQ7Sv1cBoCf7QQAvD_BwE&gclsrc=aw.ds), Washington, D.C., US.
 - *2023.06 - 2023.08*, Research Intern in [Accenture Cybersecurity Lab](https://www.accenture.com/us-en/services/cybersecurity?c=acn_glb_semcapabilitiesgoogle_14168015&n=psgs_0624&&&&&gad_source=1&gclid=CjwKCAiAk8G9BhA0EiwAOQxmfiBqXyE4Jk_NJWItuA6aJ2xL3bSB-0-sa0wfuH8nYl_ShVzQ7Sv1cBoCf7QQAvD_BwE&gclsrc=aw.ds), Washington, D.C., US.
@@ -35,6 +35,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 - *2021.07 - 2022.03*, R&D Engineering in [Synopsys Inc. (PrimeTime)](https://www.synopsys.com/implementation-and-signoff/signoff/primetime.html), Mountain View, CA, US.
 
 # 🎖 Honors and Awards
+- *2026* - Best Paper Candidate (HPCA)
 - *2025* - Outstanding Graduate Teaching Assistant Awards (Duke ECE Graduate Program)
 - *2025* - Best Paper Candidate (DATE)
 - *2023* - [1st Place of ACM/IEEE Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/Winners.html) (1/50).
@@ -45,7 +46,7 @@ I am a Ph.D. candidate in Duke ECE Department under the supervision of [Prof. Yi
 
 - ## Selected Publications
 
-  - ``HPCA 2026`` Chiyue Wei, Cong Guo, **Junyao Zhang**, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen. [**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**](https://arxiv.org/abs/2512.14661). *IEEE International Symposium on High Performance Computer Architecture (HPCA), 2026*
+  - ``HPCA 2026`` <span style="color: #3a77d1;">**(Best Paper Candidate)**</span> Chiyue Wei, Cong Guo, **Junyao Zhang**, Haoxuan Shan, Yifan Xu, Ziyue Zhang, Yudong Liu, Qinsi Wang, Changchun Zhou, Hai "Helen" Li, Yiran Chen. [**Focus: A Streaming Concentration Architecture for Efficient Vision-Language Models**](https://arxiv.org/abs/2512.14661). *IEEE International Symposium on High Performance Computer Architecture (HPCA), 2026*
    <a href="https://github.com/dubcyfor3/Focus" style="display: inline;">
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
             alt="GitHub"
