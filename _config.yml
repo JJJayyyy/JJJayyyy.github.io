@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Junyao Zhang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Ph.D. candidate in Electrical and Computer Engineering at Duke University"
-  location         : "Durham, US"
-  employer         :
+  bio              : "Bringing the latest TPUs to Google Cloud"
+  location         : "Seattle, US"
+  employer         : "Google"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=Yz673_UAAAAJ"
   email            : "junyao.zhang@duke.edu"
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "junyaoz"
+  linkedin         : "junyaoz"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
