@@ -36,8 +36,8 @@ I received my Ph.D. from the ECE Department at Duke University under the supervi
 
 # 🎖 Honors and Awards
 - *2026* - Best Paper Candidate (HPCA)
-- *2025* - Outstanding Graduate Teaching Assistant Award (Duke ECE Graduate Program)
 - *2025* - Best Paper Candidate (DATE)
+- *2025* - Outstanding Graduate Teaching Assistant Award (Duke ECE Graduate Program)
 - *2023* - [1st Place in the ACM/IEEE Quantum Computing for Drug Discovery Challenge](https://qccontest.github.io/QC-Contest/Winners.html) (1/50)
 - *2021* - Master Student Honor Program, University of Southern California
 
